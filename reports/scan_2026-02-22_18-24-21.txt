@@ -1,0 +1,13 @@
+[1;34m======================================
+ RedSpecter Linux PrivEsc Framework
+======================================[0m
+[1;33m[+] Scan Started At: Sunday 22 February 2026 06:24:21 PM IST[0m
+
+[1;33m[+] Current User:[0m
+shaikh
+
+[1;33m[+] Kernel Version:[0m
+Linux shaikh 6.18.5+kali-amd64 #1 SMP PREEMPT_DYNAMIC Kali 6.18.5-1kali1 (2026-01-19) x86_64 GNU/Linux
+
+[1;32m[+] Scan Completed Successfully![0m
+[1;32m[+] Report Saved At: reports/scan_2026-02-22_18-24-21.txt[0m
