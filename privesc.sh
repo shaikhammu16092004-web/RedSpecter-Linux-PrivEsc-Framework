@@ -46,6 +46,9 @@ source modules/suid_check.sh
 source modules/sensitive_check.sh
 source modules/cron_check.sh
 source modules/capabilities_check.sh
+source modules/permissions_check.sh
+source modules/services_check.sh
+source modules/kernel_check.sh
 
 echo ""
 echo -e "${BLUE}========== RISK SUMMARY ==========${NC}"
